@@ -4,7 +4,7 @@
 
 The goal of the *Map of Tatra Mountains* project is to create an amazing map of the highest Slovak and Polish mountain range, which will be:
 
-* *free*: available for free, subject to compliance with simple [license terms](license-and-Copyright)
+* *free*: available for free, subject to compliance with simple [license terms](license-and-copyright)
 * *modern*: shared in an arbitrarily scalable vector format
 * *detailed*: containing a large amount of geographic data
 * *accurate*: corresponding (with few [exceptions](about-the-map)) to the real world
@@ -84,7 +84,7 @@ The map was created in [QGIS](https://qgis.org/en/site/).
 Sources:
 
 * Arno Puškáš: Monograph Vysoké Tatry.
-* OpenStreetMap - OSM geodata were not used directly, author thinks [this](https://wiki.openstreetmap.org/wiki/Open_Data_License/Use_Cases#Using_OSM_data_for_the_production_of_a_hand-made_map) and [this](https://osmfoundation.org/wiki/Licence/Licence_and_Legal_FAQ#4._CAN_I_USE_OSM_DATA_AND_OPENSTREETMAP-DERIVED_MAPS_TO_VERIFY_MY_OWN_DATA_WITHOUT_TRIGGERING_SHARE-ALIKE?) applies. Just to be sure, OSM copyright has been added in the [Licencia a Copyright](#license-and-Copyright) Section.
+* OpenStreetMap - OSM geodata were not used directly, author thinks [this](https://wiki.openstreetmap.org/wiki/Open_Data_License/Use_Cases#Using_OSM_data_for_the_production_of_a_hand-made_map) and [this](https://osmfoundation.org/wiki/Licence/Licence_and_Legal_FAQ#4._CAN_I_USE_OSM_DATA_AND_OPENSTREETMAP-DERIVED_MAPS_TO_VERIFY_MY_OWN_DATA_WITHOUT_TRIGGERING_SHARE-ALIKE?) applies. Just to be sure, OSM copyright has been added in the [Licencia a Copyright](#license-and-copyright) Section.
 * [tatry.nfo.sk](https://tatry.nfo.sk/)
 ## Contact
 
