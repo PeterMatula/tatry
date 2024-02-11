@@ -47,7 +47,7 @@ Peter Matula (author)
 
 ## License and Copyright
 
-Copyright © Peter Matula and © OpenStreetMap (more details in [About the map](About-the-map) Section).
+Copyright © Peter Matula and © OpenStreetMap (more details in [About the map](about-the-map) Section).
 
 All the above-listed artworks are licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en).
 
