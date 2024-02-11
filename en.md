@@ -32,6 +32,10 @@ The last division is into versions. The first public version is `v1.0`, its fixe
 
 ## Support
 
+The author will be grateful if you [inform](contact) him of any errors and imperfections you discover. There will certainly be many of them, but together we can gradually fine-tune the artwork. Before sending your comment, please read the chapter [About the map](About-the-map).
+
+If you like the artwork and want to reward the author financially, you can send any amount to one of these accounts:
+
 * EUR € účet
    * Account holder: Peter Matula
    * IBAN: BE10 9677 7301 6204
