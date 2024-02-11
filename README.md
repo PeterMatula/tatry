@@ -59,8 +59,6 @@ V skratke, dielo môžete voľne rozmnožovat a distribuovat prostredníctvom ľ
 
 Ak máte pochybnosti, alebo by ste chceli dielo použiť za iných podmienok, prosím [kontaktujte](#kontakt) autora.
 
-https://wiki.openstreetmap.org/wiki/Open_Data_License/Use_Cases#Using_OSM_data_for_the_production_of_a_hand-made_map
-
 ## O mape
 
 Koncept mapy je v čo najkrásnejšom grafickom spracovaní zobraziť hrebene, vrcholy a sedlá zaznamenané v monografii Arna Puškáša a v ďalších horolezeckých zdrojoch. Samozrejmosťou sú ďalšie základné vrstvy ako plesá, potoky, turistické chodníky, atď. Výraznou inšpiráciou je nádherná stará mapa pána Hlaváčka. Na rozdiel on nej sa ale nová mapa nesnaží spracovať podhorie, zameriava sa len na pohorie samotné. Na orientáciu v meste alebo na ceste pre motorové vozidlá v súčasnosť existujú iné lepšie prostriedky. Ďalej sa nezameriava len na centrálnu časť pohoria a jeho Slovenskú časť, zobrazuje celé Vysoké a Belianské Tatry. V budúcnosti, keď si autor oddýchne a ak nazbiera dostatok síl, chute a času, možno bude pokračovať spracovaním Západných Tatier. Tvar Tatier je nadmieru priaznivý. Západné Tatry bezprostredne naväzujú v čisto západnom smere a tak by ich spracovanie neprinieslo len ich samostatnú mapu, ale aj možnosť naozaj impozantnej spoločnej mapy celých Tatier. Tomu nahrávajú aj technické možnosti veľkoformátovej tlače na papierovú rolu neobmedzenej dĺžky.
