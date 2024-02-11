@@ -7,13 +7,13 @@ The goal of the *Map of Tatra Mountains* project is to create an amazing map of 
 * *free*: available for free, subject to compliance with simple [license terms](#license-and-copyright)
 * *modern*: shared in an arbitrarily scalable vector format
 * *detailed*: containing a large amount of geographic data
-* *accurate*: corresponding (with few [exceptions](about-the-map)) to the real world
+* *accurate*: corresponding (with few [exceptions](#about-the-map)) to the real world
 * *complete*: shows the entire mountain range, not just its central/Slovak part
 * *mountaineering*: contains all locations important for climbing and mountaineering
 
 In short, the map wants to be a work of art that, when hung on the wall, will bring joy to lovers of the Tatras. At the same time, you can use it when planning your next adventure.
 
-The map is only available in electronic form. It is not in the author's power, nor to the taste, to arrange its physical production and distribution. You can download the map and have it printed at the nearest copy center. If you like the result, you can [reward](Support) the author at your discretion.
+The map is only available in electronic form. It is not in the author's power, nor to the taste, to arrange its physical production and distribution. You can download the map and have it printed at the nearest copy center. If you like the result, you can [reward](#Support) the author at your discretion.
 
 ## Download
 
@@ -32,7 +32,7 @@ The last division is into versions. The first public version is `v1.0`, its fixe
 
 ## Support
 
-The author will be grateful if you [inform](contact) him of any errors and imperfections you discover. There will certainly be many of them, but together we can gradually fine-tune the artwork. Before sending your comment, please read the chapter [About the map](About-the-map).
+The author will be grateful if you [inform](#contact) him of any errors and imperfections you discover. There will certainly be many of them, but together we can gradually fine-tune the artwork. Before sending your comment, please read the chapter [About the map](#about-the-map).
 
 If you like the artwork and want to reward the author financially, you can send any amount to one of these accounts:
 
