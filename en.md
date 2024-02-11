@@ -4,7 +4,7 @@
 
 The goal of the *Map of Tatra Mountains* project is to create an amazing map of the highest Slovak and Polish mountain range, which will be:
 
-* *free*: available for free, subject to compliance with simple [license terms](license-and-copyright)
+* *free*: available for free, subject to compliance with simple [license terms](#license-and-copyright)
 * *modern*: shared in an arbitrarily scalable vector format
 * *detailed*: containing a large amount of geographic data
 * *accurate*: corresponding (with few [exceptions](about-the-map)) to the real world
