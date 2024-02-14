@@ -43,7 +43,7 @@ If you like the artwork and want to reward the author financially, you can send 
    * Bank address: Rue du Trône 100, 3rd floor, Brussels 1050, Belgium
    * SEPA transfer QR code (edit the amount as you wish)\
      ![image](https://github.com/PeterMatula/tatry/assets/20342097/8f6cbe5b-1a64-479a-9bf1-3ee32def0504)
-* Bitcoin: `bc1qtfllkv65rtdvvvrrjquy46yj7cduzw3urlrrv7` ([QR code](https://github.com/PeterMatula/tatras-map/assets/20342097/f3ba11ed-11ed-4e0b-b58c-b8a034e0e56f))
+* Bitcoin: `bc1qtfllkv65rtdvvvrrjquy46yj7cduzw3urlrrv7` ([QR code](https://github.com/PeterMatula/tatry/assets/20342097/dd5ee979-89fc-44c6-90ee-2273e97229b4))
 
 
 Thank you \
