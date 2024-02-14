@@ -43,8 +43,7 @@ Ak sa Vám dielo páči a máte chuť odmeniť autora finančne, môžete zasla�
    * Adresa banky: Rue du Trône 100, 3rd floor, Brussels 1050, Belgium
    * SEPA platba QR kód (upravte čiastku podľa uváženia)\
      ![image](https://github.com/PeterMatula/tatry/assets/20342097/1ade11d8-9e74-45c1-8ebb-b6fa297b092b)
-* Bitcoin: `bc1qtfllkv65rtdvvvrrjquy46yj7cduzw3urlrrv7` ([QR code](https://github.com/PeterMatula/tatras-map/assets/20342097/f3ba11ed-11ed-4e0b-b58c-b8a034e0e56f))
-
+* Bitcoin: `bc1qtfllkv65rtdvvvrrjquy46yj7cduzw3urlrrv7` ([QR code](https://github.com/PeterMatula/tatry/assets/20342097/dd5ee979-89fc-44c6-90ee-2273e97229b4))
 
 Ďakujem \
 Peter Matula (autor)
