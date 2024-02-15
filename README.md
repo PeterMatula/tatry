@@ -17,10 +17,10 @@ Mapa je k dispozícii len v elektronickej podobe. Nie je v silách, a ani po chu
 
 ## Sťahovanie
 
-| Verzia | Font | A0 PDF | A1 PDF |
-|  :---: | :---:|  :---: |  :---: |
-|  1.0  | tlačený |   [📥 stiahni](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-ubuntu-A0.pdf) |   [📥 stiahni](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-ubuntu-A1.pdf)  |
-|  1.0  | písaný |   [📥 stiahni](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-virgil-A0.pdf)  |   [📥 stiahni](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-virgil-A1.pdf)  |
+| Verzia | Font | A0 PDF | A1 PDF | Poznámky |
+|  :---: | :---:|  :---: |  :---: | :---: |
+|  [1.0](https://github.com/PeterMatula/tatry/releases/tag/v1.0)  | tlačený |   [📥 stiahni](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-ubuntu-A0.pdf) |   [📥 stiahni](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-ubuntu-A1.pdf)  | [changelog](https://github.com/PeterMatula/tatry/blob/main/CHANGELOG.md#v10-2024-02-11) |
+|  [1.0](https://github.com/PeterMatula/tatry/releases/tag/v1.0)  | písaný |   [📥 stiahni](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-virgil-A0.pdf)  |   [📥 stiahni](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-virgil-A1.pdf)  | [changelog](https://github.com/PeterMatula/tatry/blob/main/CHANGELOG.md#v10-2024-02-11) |
 
 Tabuľka obsahuje niekoľko verzií mapy. Vyberte si tú, ktorá sedí Vám. Nech už vyberiete hociktorú, dajte ju vytlačiť farebne, v čo najvyššej kvalite (dpi), na kvalitnej tlačiarni a na rozumne kvalitný/hrubý papier. V dobrom copy centre Vám určite radi poradia.
 
