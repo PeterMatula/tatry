@@ -17,10 +17,10 @@ The map is only available in electronic form. It is not in the author's power, n
 
 ## Download
 
-| Version | Font | A0 PDF | A1 PDF |
-|  :---: | :---:|  :---: |  :---: |
-|  1.0  | typeface |   [📥 download](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-ubuntu-A0.pdf)  |   [📥 download](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-ubuntu-A1.pdf)  |
-|  1.0  | handwritten |   [📥 download](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-virgil-A0.pdf)  |   [📥 download](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-virgil-A1.pdf)  |
+| Version | Font | A0 PDF | A1 PDF | Notes |
+|  :---: | :---:|  :---: |  :---: |  :---: |
+|  [1.0](https://github.com/PeterMatula/tatry/releases/tag/v1.0)  | typeface |   [📥 download](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-ubuntu-A0.pdf)  |   [📥 download](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-ubuntu-A1.pdf)  | [changelog](https://github.com/PeterMatula/tatry/blob/main/CHANGELOG.md#v10-2024-02-11) |
+|  [1.0](https://github.com/PeterMatula/tatry/releases/tag/v1.0)  | handwritten |   [📥 download](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-virgil-A0.pdf)  |   [📥 download](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-virgil-A1.pdf)  | [changelog](https://github.com/PeterMatula/tatry/blob/main/CHANGELOG.md#v10-2024-02-11) |
 
 The table contains several versions of the map. Choose the one that you like best. Whichever one you choose, have it printed in color, in the highest possible quality (dpi), on a quality printer, and paper of reasonable quality/thickness. A good copy center will certainly be happy to advise you.
 
