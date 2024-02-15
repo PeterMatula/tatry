@@ -19,6 +19,8 @@ Mapa je k dispozícii len v elektronickej podobe. Nie je v silách, a ani po chu
 
 | Verzia | Font | A0 PDF | A1 PDF | Poznámky |
 |  :---: | :---:|  :---: |  :---: | :---: |
+|  [1.1](https://github.com/PeterMatula/tatry/releases/tag/v1.1)  | tlačený |   [📥 stiahni](https://github.com/PeterMatula/tatry/releases/download/v1.1/tatry-v1_1-ubuntu-A0.pdf) |   [📥 stiahni](https://github.com/PeterMatula/tatry/releases/download/v1.1/tatry-v1_1-ubuntu-A1.pdf)  | [changelog](https://github.com/PeterMatula/tatry/blob/main/CHANGELOG.md#v11-2024-02-15) |
+|  [1.1](https://github.com/PeterMatula/tatry/releases/tag/v1.1)  | písaný |   [📥 stiahni](https://github.com/PeterMatula/tatry/releases/download/v1.1/tatry-v1_1-virgil-A0.pdf)  |   [📥 stiahni](https://github.com/PeterMatula/tatry/releases/download/v1.1/tatry-v1_1-virgil-A1.pdf)  | [changelog](https://github.com/PeterMatula/tatry/blob/main/CHANGELOG.md#v11-2024-02-15) |
 |  [1.0](https://github.com/PeterMatula/tatry/releases/tag/v1.0)  | tlačený |   [📥 stiahni](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-ubuntu-A0.pdf) |   [📥 stiahni](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-ubuntu-A1.pdf)  | [changelog](https://github.com/PeterMatula/tatry/blob/main/CHANGELOG.md#v10-2024-02-11) |
 |  [1.0](https://github.com/PeterMatula/tatry/releases/tag/v1.0)  | písaný |   [📥 stiahni](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-virgil-A0.pdf)  |   [📥 stiahni](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-virgil-A1.pdf)  | [changelog](https://github.com/PeterMatula/tatry/blob/main/CHANGELOG.md#v10-2024-02-11) |
 
