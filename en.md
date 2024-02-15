@@ -19,6 +19,8 @@ The map is only available in electronic form. It is not in the author's power, n
 
 | Version | Font | A0 PDF | A1 PDF | Notes |
 |  :---: | :---:|  :---: |  :---: |  :---: |
+|  [1.1](https://github.com/PeterMatula/tatry/releases/tag/v1.1)  | typeface |   [📥 download](https://github.com/PeterMatula/tatry/releases/download/v1.1/tatry-v1_1-ubuntu-A0.pdf)  |   [📥 download](https://github.com/PeterMatula/tatry/releases/download/v1.1/tatry-v1_1-ubuntu-A1.pdf)  | [changelog](https://github.com/PeterMatula/tatry/blob/main/CHANGELOG.md#v11-2024-02-15) |
+|  [1.1](https://github.com/PeterMatula/tatry/releases/tag/v1.1)  | handwritten |   [📥 download](https://github.com/PeterMatula/tatry/releases/download/v1.1/tatry-v1_1-virgil-A0.pdf)  |   [📥 download](https://github.com/PeterMatula/tatry/releases/download/v1.1/tatry-v1_1-virgil-A1.pdf)  | [changelog](https://github.com/PeterMatula/tatry/blob/main/CHANGELOG.md#v11-2024-02-15) |
 |  [1.0](https://github.com/PeterMatula/tatry/releases/tag/v1.0)  | typeface |   [📥 download](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-ubuntu-A0.pdf)  |   [📥 download](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-ubuntu-A1.pdf)  | [changelog](https://github.com/PeterMatula/tatry/blob/main/CHANGELOG.md#v10-2024-02-11) |
 |  [1.0](https://github.com/PeterMatula/tatry/releases/tag/v1.0)  | handwritten |   [📥 download](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-virgil-A0.pdf)  |   [📥 download](https://github.com/PeterMatula/tatry/releases/download/v1.0/tatry-v1_0-virgil-A1.pdf)  | [changelog](https://github.com/PeterMatula/tatry/blob/main/CHANGELOG.md#v10-2024-02-11) |
 
